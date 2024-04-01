@@ -1,7 +1,7 @@
 # AI-vs-Human-Generated-Text
 
 Won the award of Best Deep Learning Project in IUPUI Datathon Event 2024.
-![Figure 1: Achievement](Certificate.PNG)
+![Figure 1: Achievement](certificate.jpg)
 
 # AIPD
 
